@@ -22,26 +22,25 @@
 1. [Project Overview](#project-overview)
 2. [Assignment Objective](#assignment-objective)
 3. [Features](#features)
-4. [Screenshots](#screenshots)
-5. [Technology Stack](#technology-stack)
-6. [Architecture](#architecture)
-7. [Project Structure](#project-structure)
-8. [Quick Start](#quick-start)
-9. [Installation](#installation)
-10. [Environment Configuration](#environment-configuration)
-11. [Streamlit Frontend](#streamlit-frontend)
-12. [API Endpoint Documentation](#api-endpoint-documentation)
-13. [Sample Request & Response](#sample-request--response)
-14. [API Response Codes](#api-response-codes)
-15. [Platform API Documentation Links](#platform-api-documentation-links)
-16. [Error Handling Strategy](#error-handling-strategy)
-17. [Testing](#testing)
-18. [Troubleshooting](#troubleshooting)
-19. [Known Limitations](#known-limitations)
-20. [Security Considerations](#security-considerations)
-21. [Contributing & Assignment Notes](#contributing--assignment-notes)
-22. [License](#license)
-23. [GitHub Submission Checklist](#github-submission-checklist)
+4. [Technology Stack](#technology-stack)
+5. [Architecture](#architecture)
+6. [Project Structure](#project-structure)
+7. [Quick Start](#quick-start)
+8. [Installation](#installation)
+9. [Environment Configuration](#environment-configuration)
+10. [Streamlit Frontend](#streamlit-frontend)
+11. [API Endpoint Documentation](#api-endpoint-documentation)
+12. [Sample Request & Response](#sample-request--response)
+13. [API Response Codes](#api-response-codes)
+14. [Platform API Documentation Links](#platform-api-documentation-links)
+15. [Error Handling Strategy](#error-handling-strategy)
+16. [Testing](#testing)
+17. [Troubleshooting](#troubleshooting)
+18. [Known Limitations](#known-limitations)
+19. [Security Considerations](#security-considerations)
+20. [Contributing & Assignment Notes](#contributing--assignment-notes)
+21. [License](#license)
+22. [GitHub Submission Checklist](#github-submission-checklist)
 
 ---
 
@@ -89,38 +88,6 @@ Demonstrate production-level Python backend skills including:
 - ✅ All credentials loaded from environment variables
 - ✅ Streamlit web UI for browser-based posting
 - ✅ One-click launcher (`start.bat`) for Windows
-
----
-
-## Screenshots
-
-> **📸 Screenshots — Add yours here!**
->
-> To add screenshots, place image files in the `docs/screenshots/` directory and they will render on GitHub automatically.
->
-> Suggested screenshots to capture:
-> - Streamlit Dashboard (compose + post)
-> - Swagger UI (`/docs`)
-> - Successful multi-platform POST response
-> - `pytest -v` passing output
-
-```
-docs/
-└── screenshots/
-    ├── dashboard.png       ← Streamlit UI
-    ├── swagger-ui.png      ← FastAPI /docs
-    ├── sample-response.png ← JSON POST response
-    └── test-run.png        ← pytest output
-```
-
-![Dashboard](docs/screenshots/dashboard.png)
-
-> _Replace the placeholder above with a real screenshot once captured. Delete this note._
-
-![Swagger UI](docs/screenshots/swagger-ui.png)
-![Test Run](docs/screenshots/test-run.png)
-
----
 
 ## Technology Stack
 
